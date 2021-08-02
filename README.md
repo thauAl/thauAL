@@ -1,4 +1,4 @@
-### Eai prazer Thauan de Albuquequer
+### Eai prazer Thauan de Albuquequerque Oliveira
 
 
 - 🔭 Desempregado aprendendo  Front-end
