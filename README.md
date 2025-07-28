@@ -1,8 +1,7 @@
 ### Eai prazer Thauan de Albuquequerque Oliveira
 
 
-- 🔭 Desempregado aprendendo  Front-end
-- 🌱 Hoje estudo JavaScript
+- Analista de Infraestrutura Jr
 
 
 <div>
